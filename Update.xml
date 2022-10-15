@@ -3,3 +3,8 @@
 	<Name>LumionUtilitytool</Name>
 	<Version>1.2.0.0</Version>
 </Utilitytool>
+<VisualLme>
+	<Name>VisualLme</Name>
+	<Version>1.6.0.0</Version>
+	<FileVersion>0.2.8.23</FileVersion>
+</VisualLme>
